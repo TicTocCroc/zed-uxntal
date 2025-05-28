@@ -1,0 +1,5 @@
+name = "Uxntal"
+grammar = "uxntal"
+path_suffixes = ["tal"]
+tab_size = 2
+hard_tabs = true

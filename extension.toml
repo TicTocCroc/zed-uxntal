@@ -4,4 +4,8 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Tyler Gardner <code@tylergardner.org>"]
 description = "Uxntal Language Support"
-repository = ""
+repository = "https://github.com/TicTocCroc/zed-uxntal"
+
+[grammars.uxntal]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-uxntal"
+rev = "ad9b638b914095320de85d59c49ab271603af048"
