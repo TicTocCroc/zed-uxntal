@@ -1,0 +1,7 @@
+id = "uxntal"
+name = "Uxntal"
+version = "0.1.0"
+schema_version = 1
+authors = ["Tyler Gardner <code@tylergardner.org>"]
+description = "Uxntal Language Support"
+repository = ""
