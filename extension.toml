@@ -7,5 +7,5 @@ description = "Uxntal Language Support"
 repository = "https://github.com/TicTocCroc/zed-uxntal"
 
 [grammars.uxntal]
-repository = "https://github.com/tree-sitter-grammars/tree-sitter-uxntal"
-rev = "ad9b638b914095320de85d59c49ab271603af048"
+repository = "https://github.com/TicTocCroc/tree-sitter-uxntal.git"
+rev = "23df2199116a1737fd246086a9ee66e420bae181"
