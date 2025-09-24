@@ -1,0 +1,3 @@
+[submodule "tree-sitter-uxntal"]
+	path = tree-sitter-uxntal
+	url = git@github.com:TicTocCroc/tree-sitter-uxntal.git
