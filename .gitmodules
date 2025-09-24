@@ -1,3 +1,0 @@
-[submodule "tree-sitter-uxntal"]
-	path = grammars/uxntal
-	url = git@github.com:TicTocCroc/tree-sitter-uxntal.git
