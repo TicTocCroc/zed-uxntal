@@ -8,4 +8,4 @@ repository = "https://github.com/TicTocCroc/zed-uxntal"
 
 [grammars.uxntal]
 repository = "https://github.com/TicTocCroc/tree-sitter-uxntal.git"
-rev = "c755cdeaceb7627e85174aacf2ca8db89fceb7ca"
+rev = "456e49be4eb459a93c314e62d839a9498672069f"
